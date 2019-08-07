@@ -2,7 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.sample</groupId>
   <artifactId>PetStoreApp</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1</version>
+  <packaging>war</packaging>
 <dependencies>
  <dependency>
     <groupId>javax.servlet</groupId>
